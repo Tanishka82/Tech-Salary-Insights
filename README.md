@@ -74,7 +74,7 @@ Tested and evaluated:
 📦 Tech-Salary-Insights
  ┣ 📄 Glassdoor_ML_Project.ipynb
  ┣ 📄 README.md
- ┣ 📄 model_rf.pkl
+ ┣ 📄 best_rf_model.joblib
  ┣ 📄 requirements.txt
 ```
 
