@@ -71,7 +71,7 @@ Tested and evaluated:
 ## 📁 Repository Structure
 
 ```
-📦 salary-prediction-ml
+📦 Tech-Salary-Insights
  ┣ 📄 Glassdoor_ML_Project.ipynb
  ┣ 📄 README.md
  ┣ 📄 model_rf.pkl
